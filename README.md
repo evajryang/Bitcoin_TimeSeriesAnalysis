@@ -11,3 +11,4 @@ Using Time Series: Bitcoin price forecast Analysis | R
 ![This is an image](https://github.com/evajryang/Bitcoin_TimeSeriesAnalysis/blob/main/Presentation/Slide8.jpeg)
 ![This is an image](https://github.com/evajryang/Bitcoin_TimeSeriesAnalysis/blob/main/Presentation/Slide9.jpeg)
 ![This is an image](https://github.com/evajryang/Bitcoin_TimeSeriesAnalysis/blob/main/Presentation/Slide10.jpeg)
+![This is an image](https://github.com/evajryang/Bitcoin_TimeSeriesAnalysis/blob/main/Presentation/Slide11.jpeg)
